@@ -1,0 +1,84 @@
+{
+  "stores": {
+    "95cd04100c741ac55d325e91f06ce2b84bd87a7e17795841176ce19a4914d73a": {
+      "vector_store_id": "vs_mock_1",
+      "updated_at": 1776789111,
+      "files": [
+        {
+          "name": "主题知识.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/主题知识.md",
+          "size": 36,
+          "mtime": 1776789111,
+          "sha256": "e0a5c1c92d064b02c88042adc894cb835e96d7ac445633b97bf0e50a41ba23c4"
+        }
+      ]
+    },
+    "0ad70337922060e5823b8d4f6fe5e0850fab7fc146c530069050f7a07b5c439f": {
+      "vector_store_id": "vs_69e7a6de02208191807f5cdce8fde653",
+      "updated_at": 1776789273,
+      "files": [
+        {
+          "name": "gifts.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/gifts.md",
+          "size": 7098,
+          "mtime": 1776789160,
+          "sha256": "7ba7ebef96cc2255ba0b5df215f07726e8c5b24575ed1d2313fbd0a51b3bdb74"
+        },
+        {
+          "name": "theme_彰显.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/theme_彰显.md",
+          "size": 1840,
+          "mtime": 1776789160,
+          "sha256": "cd8b04411067cabcb87033141e2e3cec72747c9b6e326ef03e89f576c61ff635"
+        },
+        {
+          "name": "theme_温情.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/theme_温情.md",
+          "size": 2364,
+          "mtime": 1776789160,
+          "sha256": "8fe0a19b6d42b2b95301949ec14cc15f4913035cc0c6160840cbb544df1b27f0"
+        },
+        {
+          "name": "theme_爱情.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/theme_爱情.md",
+          "size": 2194,
+          "mtime": 1776789160,
+          "sha256": "74349ea20be0dd4804e1da33e7b5b7819fe2a40bdae31bbcdd902d140191f8ed"
+        },
+        {
+          "name": "theme_趣味.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/theme_趣味.md",
+          "size": 1855,
+          "mtime": 1776789160,
+          "sha256": "9aacbcd94724100942c5147d87b7dab04218772b21a55adfed21b99d4474813a"
+        }
+      ]
+    },
+    "056982916aa7104e8b9f9a5bcdf16e681b7ad5045c9c0196f509b216b6075b5c": {
+      "vector_store_id": "vs1",
+      "updated_at": 1776789941,
+      "files": [
+        {
+          "name": "a.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/a.md",
+          "size": 5,
+          "mtime": 1776789941,
+          "sha256": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+        }
+      ]
+    },
+    "d6259fac12b0cedbbafbf3ecd71c1a79c0e43b4588d188d6094eee463524d6bf": {
+      "vector_store_id": "vs1",
+      "updated_at": 1776791722,
+      "files": [
+        {
+          "name": "a.md",
+          "path": "/Users/bytedance/Documents/ComfyUI/custom_nodes/comfyui-gpt5-node/uploads/a.md",
+          "size": 5,
+          "mtime": 1776791722,
+          "sha256": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+        }
+      ]
+    }
+  }
+}
